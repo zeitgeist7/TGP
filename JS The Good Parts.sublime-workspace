@@ -1,0 +1,1158 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"char",
+				"charAt"
+			],
+			[
+				"ch",
+				"charAt"
+			],
+			[
+				"T",
+				"Terrarium"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"character",
+				"characterFromElement  (function)"
+			],
+			[
+				"poi",
+				"pointAtIndex"
+			],
+			[
+				"pro",
+				"proto	Prototype"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"ti",
+				"toFixed"
+			],
+			[
+				"is",
+				"isEqualTo"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"property",
+				"propertyValue  (argument)"
+			],
+			[
+				"fat",
+				"fatRabbit"
+			],
+			[
+				"fn",
+				"fun	Function"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"render",
+				"renderFragment"
+			],
+			[
+				"body",
+				"bodyContent"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"index",
+				"indexOfStartDelimiter"
+			],
+			[
+				"split",
+				"splitParagraph"
+			],
+			[
+				"para",
+				"paragraphs"
+			],
+			[
+				"grab",
+				"grabTextBeforeSpecialTags"
+			],
+			[
+				"end",
+				"endIndex"
+			],
+			[
+				"paragra",
+				"paragraph"
+			],
+			[
+				"cn",
+				"content"
+			],
+			[
+				"proces",
+				"processParagraph"
+			],
+			[
+				"number",
+				"number"
+			],
+			[
+				"coordi",
+				"coordinate"
+			],
+			[
+				"coordin",
+				"coordinates"
+			],
+			[
+				"A",
+				"AssertionError  (class)"
+			],
+			[
+				"try",
+				"try	Try/Except/Else/Finally"
+			],
+			[
+				"coor",
+				"coordinate"
+			],
+			[
+				"def",
+				"defs	Method"
+			],
+			[
+				"x",
+				"getX"
+			],
+			[
+				"get",
+				"getX  (function)"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"de",
+				"defs	Method"
+			],
+			[
+				"a",
+				"aParent"
+			],
+			[
+				"p",
+				"phoneNumber"
+			],
+			[
+				"prnt",
+				"printWorld"
+			],
+			[
+				"print",
+				"printWorld"
+			],
+			[
+				"argum",
+				"argument"
+			],
+			[
+				"sec",
+				"secondBatchOfNumbers"
+			],
+			[
+				"nu",
+				"numOfZeroes"
+			],
+			[
+				"BOOK",
+				"BOOKMARK_SNIPPET_KEY"
+			],
+			[
+				"BOOkmark_",
+				"BOOKMARK_ID_KEY"
+			],
+			[
+				"book",
+				"bookmarkContext"
+			],
+			[
+				"create",
+				"createUUID"
+			],
+			[
+				"Ele",
+				"ELEMENT_NODE"
+			],
+			[
+				"tag",
+				"tagName"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"save",
+				"savedHighlights"
+			],
+			[
+				"prev",
+				"previousSibling"
+			],
+			[
+				"next",
+				"nextSibling"
+			],
+			[
+				"remove",
+				"removeChild"
+			],
+			[
+				"paren",
+				"parentNode"
+			],
+			[
+				"previous",
+				"previousSibling"
+			],
+			[
+				"previou",
+				"previousSibling"
+			],
+			[
+				"target",
+				"targetSpanElement"
+			],
+			[
+				"span",
+				"spansList"
+			],
+			[
+				"tar",
+				"targetSpanElement"
+			],
+			[
+				"spans",
+				"spans"
+			],
+			[
+				"current",
+				"currentHighlightUUID"
+			],
+			[
+				"curret",
+				"currentHighlightUUID"
+			],
+			[
+				"right",
+				"rightSpan"
+			],
+			[
+				"repl",
+				"replaceUUIDWithSpanHighlightElementWithUUID"
+			],
+			[
+				"curretn",
+				"currentUUID"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"replace",
+				"replaceChild"
+			],
+			[
+				"previ",
+				"previousSpan"
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"pre",
+				"previousSpanTextContent"
+			],
+			[
+				"shoul",
+				"shouldMergeWithPreviousNode"
+			],
+			[
+				"should",
+				"shouldMergeWithNextNode"
+			],
+			[
+				"node",
+				"nodeIsChiildOfSpanElement"
+			],
+			[
+				"parent",
+				"parentElement"
+			],
+			[
+				"clas",
+				"classList"
+			],
+			[
+				"hom",
+				"homogenizeHighlightsForNode"
+			],
+			[
+				"all",
+				"allHighlightedSpans"
+			],
+			[
+				"last",
+				"lastNodeReplacement"
+			],
+			[
+				"appen",
+				"appendChild"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"creat",
+				"createElement"
+			],
+			[
+				"repla",
+				"replaceChild"
+			],
+			[
+				"first",
+				"firstPartOfText"
+			],
+			[
+				"high",
+				"highlightSelectedTextInNode"
+			],
+			[
+				"selected",
+				"selectedText"
+			],
+			[
+				"inde",
+				"indexOf"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<html lang=\"en\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>JS The Good Parts</title>\n</head>\n<body>\n	<pre><script src=\"program.js\"></script></pre>\n</body>\n</html>",
+			"settings":
+			{
+				"buffer_size": 175,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 313.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project: Refresh Folders"
+			],
+			[
+				"add fol",
+				"Project: Add Folder"
+			],
+			[
+				"add f",
+				"Project: Add Folder"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"gitinit",
+				"Git: Init"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"git pu",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git ci",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"commti",
+				"Git: Commit"
+			],
+			[
+				"gita",
+				"Git: Add..."
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"add...",
+				"Git: Add..."
+			],
+			[
+				"amm",
+				"Git: Amend Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"gia",
+				"Git: Add Current File"
+			],
+			[
+				"push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"git",
+				"Git: Push Current Branch"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git commi",
+				"Git: Commit"
+			],
+			[
+				"gi a",
+				"Git: Add Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"comme",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"git add..",
+				"Git: Add..."
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"add..",
+				"Git: Add..."
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git l",
+				"Git: Log All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add..."
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"refre",
+				"Project: Refresh Folders"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Add..."
+			],
+			[
+				"git ass",
+				"Git: Status"
+			],
+			[
+				"amen",
+				"Git: Amend Commit"
+			],
+			[
+				"am",
+				"Git: Amend Commit"
+			],
+			[
+				"gitq",
+				"Git: Quick Commit"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"gitcom",
+				"Git: Commit"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"file",
+				"File: New View into File"
+			],
+			[
+				"codeintel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"pacli",
+				"Package Control: List Packages"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"qcomm",
+				"Git: Quick Commit"
+			],
+			[
+				"qcom",
+				"Git: Quick Commit"
+			],
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"curebr",
+				"Git: Push Current Branch"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"bra",
+				"Git: New Branch"
+			],
+			[
+				"pa",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"new",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"brose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"color",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 588.0
+	},
+	"console":
+	{
+		"height": 114.0,
+		"history":
+		[
+			"2+2",
+			"help",
+			"pwd",
+			"wpd",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/JS The Good Parts/program.html",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/JS The Good Parts/JS The Good Parts.sublime-project",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/Udacity-Projects/hello-udacity/main.py",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/SDZ-Python-Suzy/playground/funckyModule.py",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/SDZ-Python-Suzy/Partie 2/syntaxe/syntaxe.py",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/SDZ-Python-Suzy/playground.py",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/SDZ-Python-Suzy/Partie 2/syntaxe/sample.txt",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/BNR/Documents/Big Nerd Ranch/1-1 Notes/Annual Reviews/2012-2013/Annual Review Meeting Notes.txt",
+		"/Users/BNR/.gitignore",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/Eloquent Javascript/eloquentExercisesContainer.js",
+		"/Users/BNR/Developer/zeitgeist7/Tutorials/Eloquent Javascript/eloquentJS.js",
+		"/tmp/subl stdin AqimWn.txt",
+		"/Users/BNR/Desktop/migration for Marcel MBA.todo",
+		"/Users/BNR/.ssh/known_hosts",
+		"/tmp/applications.txt",
+		"/Users/BNR/Documents/Marcel meeting 09-12-2013.TODO",
+		"/Users/BNR/Downloads/github_2fa_recovery_codes.txt",
+		"/Users/BNR/Desktop/dbx.txt",
+		"/Users/BNR/Library/Mail/V2/MailData/Signatures/13C4719E-E33C-4B93-91A8-ABFE8F420871.mailsignature",
+		"/Users/BNR/Library/Mail/V2/MailData/Signatures/A623B08E-CFAD-4C95-97F4-E98B7E1FFB67.mailsignature",
+		"/Users/BNR/Library/Mail/V2/MailData/Signatures/031BF47A-158B-4F4C-98BA-8E6B7B08B138.mailsignature",
+		"/Users/BNR/Desktop/SDZ/resultats.log",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/Terminal/Default (OSX).sublime-keymap",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/BNR/Documents/Big Nerd Ranch/Boekenkastapp/Boekenkast tasks.todo",
+		"/Users/BNR/Developer/BNR/iOS/Boekenkast/Boekenkast/Controllers/BKRootViewController.",
+		"/Users/BNR/Documents/Big Nerd Ranch/Boekenkastapp/Boekenkast tasks.TODO",
+		"/Users/BNR/Library/Application Support/Sublime Text 3/Packages/PlainTasks/PlainTasks (OSX).sublime-settings",
+		"/private/tmp/ePub/asd.txt",
+		"/private/tmp/ePub/Sample Book 1/OEBPS/page-template.xpgt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"func",
+			"(",
+			",",
+			"p1_plusp2",
+			"p1",
+			"this",
+			"map",
+			"text",
+			"asdasdasd",
+			"\n",
+			"%",
+			"element",
+			"math.",
+			"sqrt",
+			".x",
+			".y",
+			"x",
+			"valeur",
+			"deuxiemesNombres",
+			"path",
+			"i",
+			"alertUserForHighlightRemoval",
+			"createUUID",
+			"argument",
+			"undoHighlightWithUUID",
+			">2",
+			">1",
+			"1",
+			"mergeNodeWithPreviousSibling",
+			"spanElement.previousSibling",
+			"targetSpanElement",
+			"'span'",
+			"createElement('span')",
+			"not",
+			"createElement('span')",
+			"replaceUUIDWithSpanHighlightElementWithUUID",
+			"forEach",
+			"currentHighlightUUID",
+			"createUUID",
+			"homogenizeHighlightsForNodeWith",
+			"nextNode",
+			"highlightSelectedTextInNode",
+			"selectedText",
+			"shouldTry",
+			"homogenizeHighlightsForNode",
+			"placeholderTextNode",
+			"highlightSelectedTextInNode",
+			"nextNode",
+			"adjustSelectionRange",
+			"removeSpan",
+			"adjustHighlightBoundaries",
+			"removeElementsFromArray",
+			"highlightSelectedTextInNode",
+			"nodeReplacement",
+			"someTextNode",
+			"replacementTextNode",
+			"UnzipDir",
+			"Boekenkast",
+			"<navPoint id=\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								175,
+								175
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": true,
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"is_xml": false,
+							"sublime_auto_complete": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 131.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 90.0
+	},
+	"project": "JS The Good Parts.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"eloquentJS.js"
+			],
+			[
+				"sample",
+				"Partie 2/syntaxe/sample.txt"
+			],
+			[
+				"synta",
+				"Partie 2/syntaxe/syntaxe.py"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"bnr",
+				"BNR.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 212.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
