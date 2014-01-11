@@ -1,38 +1,19 @@
-document.writeln("This is a day that I have been looking forward to for two and a half years!");
+// document.writeln("This is a day that I have been looking forward to for two and a half years!");
 
-function Gibberish(world, number, nerdCompletion) {
-	this.hello = world;
-	this.zeitgeist = number;
-	this.big = nerdCompletion;
+var book = {
+	title: "Javascript The Good Parts", 
+	author: "Douglas Crockford", 
+	chapters: [
+		{
+			name: "Chapter 1 - Grammar", 
+			index: 1
+		},
+		{
+			name: "Chapter 2 - Objects", 
+			index: 2
+		}
+	]
 };
 
-Gibberish.prototype.prototypedFn = function() {
-	console.log("This is a day that i have been looking forward to for and a half years");
-};
-
-
-var gibberish = new Gibberish("world", "7", "nerd ranch");
-
-for(propertyName in gibberish) {
-	var propString = propertyName + " : " + gibberish[propertyName];
-
-	if (gibberish.hasOwnProperty(propertyName)) {
-		console.log("Intrinsic property: " + propString);
-	}
-	else {
-		console.log("prototyped property : " + propString);
-	}
-}
-
-(function () {
-	just_a_label:for (var i = 0; i < 10; i++) {
-		console.log("Inside just_a_label loop\n");
-		for (var j = 0; j < 10; j++) {
-			console.log("\tInside-inside just_a_label");
-			if (j === 2) {
-				break just_a_label;
-			}
-		};
-	};
-})();
-
+console.log(book.title.reference && book.title.reference.hello);
+console.log(book.title.reference.hello);
